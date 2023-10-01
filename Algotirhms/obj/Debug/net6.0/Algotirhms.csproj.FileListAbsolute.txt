@@ -1,0 +1,14 @@
+C:\Users\nicim\Desktop\algorithms\Algotirhms\bin\Debug\net6.0\Algotirhms.exe
+C:\Users\nicim\Desktop\algorithms\Algotirhms\bin\Debug\net6.0\Algotirhms.deps.json
+C:\Users\nicim\Desktop\algorithms\Algotirhms\bin\Debug\net6.0\Algotirhms.runtimeconfig.json
+C:\Users\nicim\Desktop\algorithms\Algotirhms\bin\Debug\net6.0\Algotirhms.dll
+C:\Users\nicim\Desktop\algorithms\Algotirhms\bin\Debug\net6.0\Algotirhms.pdb
+C:\Users\nicim\Desktop\algorithms\Algotirhms\obj\Debug\net6.0\Algotirhms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicim\Desktop\algorithms\Algotirhms\obj\Debug\net6.0\Algotirhms.AssemblyInfoInputs.cache
+C:\Users\nicim\Desktop\algorithms\Algotirhms\obj\Debug\net6.0\Algotirhms.AssemblyInfo.cs
+C:\Users\nicim\Desktop\algorithms\Algotirhms\obj\Debug\net6.0\Algotirhms.csproj.CoreCompileInputs.cache
+C:\Users\nicim\Desktop\algorithms\Algotirhms\obj\Debug\net6.0\Algotirhms.dll
+C:\Users\nicim\Desktop\algorithms\Algotirhms\obj\Debug\net6.0\refint\Algotirhms.dll
+C:\Users\nicim\Desktop\algorithms\Algotirhms\obj\Debug\net6.0\Algotirhms.pdb
+C:\Users\nicim\Desktop\algorithms\Algotirhms\obj\Debug\net6.0\Algotirhms.genruntimeconfig.cache
+C:\Users\nicim\Desktop\algorithms\Algotirhms\obj\Debug\net6.0\ref\Algotirhms.dll
